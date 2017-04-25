@@ -1,6 +1,6 @@
 # npmtest-homebridge-people
 
-#### test coverage for  [homebridge-people (v0.5.0)](https://github.com/PeteLawrence/homebridge-people#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-people.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-people) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-people.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-people)
+#### basic test coverage for  [homebridge-people (v0.5.0)](https://github.com/PeteLawrence/homebridge-people#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-people.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-people) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-people.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-people)
 
 #### Homebridge plugin that provides details of who is in a Home
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-homebridge-people/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-homebridge-people/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-homebridge-people/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-homebridge-people/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-homebridge-people/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-homebridge-people/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-homebridge-people/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-homebridge-people/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-homebridge-people/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-homebridge-people/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-homebridge-people/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-homebridge-people/build/coverage.html/index.html)
 
@@ -72,7 +72,8 @@
         "url": "git+https://github.com/PeteLawrence/homebridge-people.git"
     },
     "scripts": {},
-    "version": "0.5.0"
+    "version": "0.5.0",
+    "bin": {}
 }
 ```
 
